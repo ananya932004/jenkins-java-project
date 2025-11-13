@@ -17,11 +17,11 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email or Mobile number</label>
+          <label>Email or Mobile omggggggg</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>Password pleasee</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-1.0</button>
         <div class="form-help">
@@ -29,7 +29,7 @@
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
           </div>
-          <a href="#">Need help?</a>
+          <a href="#">Need help??????</a>
         </div>
       </form>
       <p>New to Netflix? <a href="#">Lets join up now</a></p>
